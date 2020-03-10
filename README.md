@@ -11,7 +11,7 @@ It asks and answers following business questions:
 4. When is the most suitable time to rent an Airbnb appartment in terms of price and availability?
 5. Is there a significant price difference between weekdays and weekends?
 
-A blog post with the results can be found on following site: xxx
+A blog post with the results can be found on following site: https://medium.com/@eugen.iftimoaie/5-insights-you-need-to-know-about-airbnb-in-vienna-3fb9c0766ef6
 
 ## Configuration & Installation
 * Python 3.7 with libraries numpy, pandas, geopandas, scipy, matplotlib, seaborn, folium
