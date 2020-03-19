@@ -2,7 +2,7 @@
 Analysis of Vienna AirBnB listings for 2019-2020
 
 ## Motivation
-This project is part of Udacity's Data Science Nanodegree Program. Here we analyise Airbnb listings and calendar data published by http://insideairbnb.com. The CRISP-DM process is followed to perform statistical analysis examining the types and sizes of listings and listed prices throughout the year.
+This project is part of Udacity's Data Science Nanodegree Program. Here we analyse Airbnb listings and calendar data published by http://insideairbnb.com. The CRISP-DM process is followed to perform statistical analysis examining the types and sizes of listings and listed prices throughout the year.
 
 It asks and answers following business questions:
 1. Where can we find the most listings in Vienna?
